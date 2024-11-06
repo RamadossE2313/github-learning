@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rishi\\source\\repos\\githublearning\\githublearning.csproj": {}
+    "C:\\Github Repositories\\github-learning\\githublearning.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rishi\\source\\repos\\githublearning\\githublearning.csproj": {
+    "C:\\Github Repositories\\github-learning\\githublearning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rishi\\source\\repos\\githublearning\\githublearning.csproj",
+        "projectUniqueName": "C:\\Github Repositories\\github-learning\\githublearning.csproj",
         "projectName": "githublearning",
-        "projectPath": "C:\\Users\\rishi\\source\\repos\\githublearning\\githublearning.csproj",
+        "projectPath": "C:\\Github Repositories\\github-learning\\githublearning.csproj",
         "packagesPath": "C:\\Users\\rishi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rishi\\source\\repos\\githublearning\\obj\\",
+        "outputPath": "C:\\Github Repositories\\github-learning\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rishi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -58,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }
