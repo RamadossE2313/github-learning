@@ -17,6 +17,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 // added comments for branch testing purpose
+// added next comment line
 app.UseRouting();
 
 app.UseAuthorization();
