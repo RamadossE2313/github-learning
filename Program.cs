@@ -16,6 +16,7 @@ if (!app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
+// added comments for branch testing purpose
 app.UseRouting();
 
 app.UseAuthorization();
